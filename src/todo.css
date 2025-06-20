@@ -45,4 +45,6 @@ hr{
 .editbtn{
     background-color: rgb(104, 138, 138);
 }
-
+p{
+    margin-left: 30px;
+}

@@ -41,6 +41,7 @@ function Edit(index) {
     return(
            <div className="todolist">
             <h1>To-Do-List</h1>
+            <p>by Chaitrali-Z</p>
             <hr style={{width:'100%',border:'1px solid black'}}/>
             <div>
                 <input 
