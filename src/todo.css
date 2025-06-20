@@ -1,0 +1,48 @@
+.todolist{
+    margin-top: 0;
+    height: 100%;
+    display: flex;
+    flex-direction:column ;
+    position: absolute;
+    top: 0;
+    
+    
+    width: 100%;
+}
+button{
+    border: 2px solid hsla(0, 10%, 73%, 0.264);
+}
+.text{
+    flex: 1;
+    padding: 20px;
+    color: black;
+}
+li{
+    padding: 30px;
+   background-color: rgb(187, 196, 193);
+   border-radius: 5px;
+    display:inline-block;
+    margin: 50px;
+}
+input{
+    padding: 8px;
+    margin-left:10px ;
+    border-radius: 5px;
+    border: 0.5px solid rgba(17, 3, 3, 0.452);
+}
+.addbtn{
+    background-color: lab(69.94% -62.52 56.69);
+}
+.deleteBtn{
+    border-radius: 25px;
+    padding:0px 10px ;
+    background-color: rgb(213, 60, 60);
+    
+}
+hr{
+    border:2px solid black
+}
+.editbtn{
+    background-color: rgb(104, 138, 138);
+}
+
